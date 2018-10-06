@@ -1,3 +1,4 @@
+<meta http-equiv="content-type" charset="utf-8">
 
 # Mandala Chartアプリのプライバシーポリシーについて
 
