@@ -1,6 +1,6 @@
-### About the Simple Note app's privacy policy
+### About the Memo Now! app's privacy policy
 
-This privacy policy explains user information transmitted from Simple Note (hereinafter "this application"), which is an iOS application, and its handling. When using this application, we assume that you agree to this Privacy Policy. Please confirm and understand the contents of this privacy policy and use this application.
+This privacy policy explains user information transmitted from Memo Now! (hereinafter "this application"), which is an iOS application, and its handling. When using this application, we assume that you agree to this Privacy Policy. Please confirm and understand the contents of this privacy policy and use this application.
 
 We recognize that it is a social responsibility to carry out the personal information protection efforts seriously, and we will strive to thoroughly implement the personal information protection policy as described below.
 
